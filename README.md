@@ -1,0 +1,2 @@
+# HuffmanCoding
+Huffman compression task
